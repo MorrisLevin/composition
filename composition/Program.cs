@@ -7,6 +7,7 @@ namespace composition
         static void Main(string[] args)
         {
 
+
             Hero göran = new Hero();
             Hero atom = new Hero();
 
